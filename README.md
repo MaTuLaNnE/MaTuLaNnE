@@ -21,7 +21,6 @@ Soy un entusiasta del desarrollo de software con una sólida base en **programac
 - 👨‍💻 **Lenguajes:** Java, C#, HTML5, CSS  
 - 🧩 **Frameworks:** .NET Framework, ASP.NET MVC, MAUI  
 - 🗃️ **Bases de Datos:** SQL Server, Oracle DB  
-- 🧪 **Testing y QA:** Diseño y ejecución de casos de prueba, documentación y reporte de defectos  
 - 📋 **Metodologías:** Scrum, Kanban, XP  
 - 📐 **Diseño:** UML, modelado de bases de datos, documentación técnica
 
@@ -30,9 +29,8 @@ Soy un entusiasta del desarrollo de software con una sólida base en **programac
 ### 🔨 Proyectos en desarrollo
 
 🛠 Actualmente estoy trabajando en proyectos como:
-- **📻 Voz del Este**: Plataforma web ASP.NET MVC para una emisora radial (gestión de programas, usuarios,noticias, comentarios, clima, etc.)
-- **📱 App móvil con .NET MAUI**: Consumo de APIs y desarrollo multiplataforma
-- **📝 Editor de texto en Java**: Basado en listas enlazadas, parte de mi formación en estructuras de datos
+- **📻 Voz del Este**: Plataforma web ASP.NET MVC para una emisora radial (gestión de programas, usuarios,noticias, comentarios, clima, etc.). Comprension y aplicacion de conceptos como ORMs(EF desde BD SQL Server en este caso), consumo de APIs REST.
+- **📝 Obligatorio de Prog2**: Primer proyecto tomando contacto de POO y el entorno .Net Framework. Una aplicacion de gestion de tareas basada en roles. Sin BD y utilizando WinForms.
 
 Podés explorarlos en mis repos públicos 👇
 
